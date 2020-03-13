@@ -9,6 +9,8 @@ Our major projects includes III-V laser fabrication and test, hybrid platform de
 
 This rep includes basic intro of set-ups in our lab.
 
+This rep inculdes some reference for design, fabrication, measuremetn
+
 ...
 
 ...
@@ -16,3 +18,8 @@ This rep includes basic intro of set-ups in our lab.
 ...
 
 #-------------------------------------------------------
+
+
+#-------------------------------------------------------
+03132020
+Hybrid align with rotation stage added 
